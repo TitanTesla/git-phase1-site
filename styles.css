@@ -21,3 +21,7 @@ body {
   border-radius: 10px;
   cursor: pointer;
 }
+
+.btn:hover{
+    transform: translateY(-5px);
+}
